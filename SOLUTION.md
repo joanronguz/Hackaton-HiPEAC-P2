@@ -10,8 +10,12 @@ Alfonso Martínez Conejo
 cristian Tiberius Axinte
 José Andrés Roncancio
 
-Detailed approach followed
+Detailed approach followed:
 
+Train Data Analysis
+Validation Data Analysis
+Data curation (dealing with NaN)
+Deep Learning Model
 
 Main libraries used and why
 

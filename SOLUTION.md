@@ -1,13 +1,14 @@
 A SOLUTION.md file with the following information:
-Team name
+
+Team name:
 
 Fantastic FiVe
 
-Team members
+Team members:
 
-Riccardo Selis
-Alfonso Martínez 
-Cristian Axinte
+Riccardo Selis,
+Alfonso Martínez, 
+Cristian Axinte,
 José Roncancio
 
 Detailed approach followed:
@@ -17,7 +18,7 @@ Validation Data Analysis
 Data curation (dealing with NaN)
 Deep Learning Model
 
-Main libraries used and why
+Main libraries used and why:
 
 pandas
 matplotlib

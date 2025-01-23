@@ -6,9 +6,9 @@ Fantastic FiVe
 Team members
 
 Riccardo Selis
-Alfonso Martínez Conejo
-cristian Tiberius Axinte
-José Andrés Roncancio
+Alfonso Martínez 
+Cristian Axinte
+José Roncancio
 
 Detailed approach followed:
 
